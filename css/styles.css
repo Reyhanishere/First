@@ -1,0 +1,16 @@
+body{
+  background-color: #FFF3CF;
+  font-family:'Lucida Sans', 
+}
+
+hr{
+  border-style: none;
+  border-top-style:dashed;
+  border-color: #83630c;
+  border-width: 5px;
+  width: 10%;
+}
+
+h3{
+  color:#65647C;
+}
